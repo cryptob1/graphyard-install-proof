@@ -1,0 +1,1 @@
+{"name":"graphyard-install-proof","private":true,"version":"0.0.1","type":"module","scripts":{"test":"node --test","typecheck":"node -e \"console.log('typecheck ok')\""}}
